@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Angular,Javascript,Node.js anything in Javascript**
 
-- 📫 How to reach me **tuhidulislammridul@gmail.com**
+- 📫 How to reach me **tuhidulislammridul@gmail.com,tuhin2093@gmail.com**
 
 - 📄 Know about my experiences [https://tauhidul0821.github.io/](https://tauhidul0821.github.io/)
 
